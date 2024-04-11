@@ -59,7 +59,7 @@ function Home() {
             <h3>Admin</h3>
           </div>
           <hr />
-          <div className='d-flex justify-content-between'>
+          <div className='d-flex text-primary justify-content-between'>
             <h5>Total:</h5>
             <h5>{adminTotal}</h5>
           </div>
@@ -69,7 +69,7 @@ function Home() {
             <h4>Employee</h4>
           </div>
           <hr />
-          <div className='d-flex justify-content-between'>
+          <div className='d-flex text-primary justify-content-between'>
             <h5>Total:</h5>
             <h5>{employeeTotal}</h5>
           </div>
